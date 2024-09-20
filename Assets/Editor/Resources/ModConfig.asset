@@ -19,6 +19,6 @@ MonoBehaviour:
     by Hexicube from almost a decade ago.\n\nThe manual can be found in the manuals
     folder of the game or at ktane.timwi.de.\n\r\nContact johatrot on Discord if there
     are any bugs."
-  version: 1.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: a3132220d2a8a36428a1075d3ebb7a39, type: 3}
